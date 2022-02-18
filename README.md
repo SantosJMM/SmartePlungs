@@ -1,0 +1,3 @@
+# SmartePlungs
+
+Experimental plugin DarkBot
