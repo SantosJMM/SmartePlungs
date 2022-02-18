@@ -7,7 +7,6 @@
   "features": [
     "com.smarte.darkbot.TecnoHelper"
   ],
-
-  "download": "https://github.com/darkbot-reloaded/DefaultPlugin/releases/download/v1.7.4/DefaultPlugin.jar",
-  "update": "https://raw.githubusercontent.com/darkbot-reloaded/DefaultPlugin/master/src/main/resources/plugin.json"
+  "download": "https://github.com/SantosJMM/SmartePlungs/releases/download/realse/SmartePlungs.jar",
+  "update": "https://raw.githubusercontent.com/SantosJMM/SmartePlungs/master/src/main/resources/plugin.json"
 }
