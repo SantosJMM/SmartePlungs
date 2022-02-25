@@ -5,7 +5,8 @@
   "minVersion": "1.13.17 beta 100",
   "supportedVersion": "1.13.17 beta 100",
   "features": [
-    "com.smarte.darkbot.TecnoHelper"
+    "com.smarte.darkbot.TechnoHelp",
+    "com.smarte.darkbot.ShipsAbility"
   ],
   "download": "https://github.com/SantosJMM/SmartePlungs/releases/download/realse/SmartePlungs.jar",
   "update": "https://raw.githubusercontent.com/SantosJMM/SmartePlungs/master/src/main/resources/plugin.json"
